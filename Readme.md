@@ -14,3 +14,4 @@ Hobbiest projects:
 
 Webinar's and podcasts:
 - Robotics in Orthopedic Implant manufacturing: https://www.youtube.com/watch?v=9B1lu3iZbXs
+- Robotics for All: https://roboticsforallpodcastbyavr.buzzsprout.com/
