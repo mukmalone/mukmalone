@@ -2,6 +2,15 @@ Current learning topics:
 - ROS (Robot Operation System)
 - MongoDB Client Side Encryption
 
+Some favorite languages/frameworks:
+- React
+- MongoDB
+- C++
+- Python
+- Javascript
+- Tensor Flow
+- Three.js
+
 LinkedIn Profile: https://www.linkedin.com/in/michael-muldoon-avr/
 
 Twitter: @MichaelJMuldoon
