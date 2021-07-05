@@ -15,8 +15,11 @@ LinkedIn Profile: https://www.linkedin.com/in/michael-muldoon-avr/
 
 Twitter: @MichaelJMuldoon
 
-Hobbiest projects: 
+Current ROS + Web projects: 
 - Web robotic fleet management system: https://adaptive-goal-management.herokuapp.com/
+- Prototype service robot: https://github.com/mukmalone/hello_robot
+
+Hobby projects:
 - Predicting tomorrow's Bitcoin price using neural networks: https://www.empireai.io
 - Smoothie vending machine UI built using Ethereum: https://simple-sips.herokuapp.com/
 
